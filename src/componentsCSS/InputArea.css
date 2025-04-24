@@ -1,0 +1,23 @@
+.input{
+    margin-top: 10px;
+    margin-left: 550px;
+    width: 190px;
+    height: 37px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+}
+
+input::placeholder{
+    font-size: 18px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button{
+   cursor: pointer;
+   width: 190px;
+   font-size: 18px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
